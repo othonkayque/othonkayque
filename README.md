@@ -5,7 +5,7 @@
 <img src="https://img.shields.io/badge/-Django-2E8B57?logo=django&style=for-the-badge">
 <img src="https://img.shields.io/badge/-html5-CD5C5C?logo=html5&logoColor=white&style=for-the-badge">
 <img src="https://img.shields.io/badge/-css3-7B68EE?logo=css3&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&style=for-the-badge">
+<!---<img src="https://img.shields.io/badge/-C++-blue?logo=c%2B%2B&style=for-the-badge">-->
 </a>
 
 <a><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">

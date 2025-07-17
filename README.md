@@ -1,1 +1,3 @@
-![typing](https://github.com/user-attachments/assets/ef698436-9cd0-4f31-ab43-567a9ab3e410)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=othonkayque&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=15&order=3" height="200" alt="streak graph"  />
+</div>
